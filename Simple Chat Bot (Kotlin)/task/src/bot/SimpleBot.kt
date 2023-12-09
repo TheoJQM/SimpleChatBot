@@ -9,7 +9,7 @@ fun main() {
     greet("Aid", "2020") // change it as you need
     remindName()
     guessAge()
-    count()
+    count()  
     test()
     end()
 }
